@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "module": "es2022",
+    "esModuleInterop": true,
+    "target": "es2022",
+    "moduleResolution": "node",
+    "outDir": "build",
+    "rootDir": "./",
+    "baseUrl": "./",
+    // "forceConsistentCasingInFileNames": true,
+    // "strict": true,
+  },
+  "lib": ["es2015"],
+  
+}
